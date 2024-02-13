@@ -1,2 +1,6 @@
 This is first commit done by yash.
+
 commit by ashritha
+
+Edited the file new.
+
