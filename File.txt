@@ -1,3 +1,10 @@
 This is first commit done by yash.
+
 commit by ashritha
+<<<<<<< HEAD
 another commit by ashritha
+=======
+
+Edited the file new.
+
+>>>>>>> 22e472d465832a1a756cf3e736a897e7eba03b33
